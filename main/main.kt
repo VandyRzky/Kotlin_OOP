@@ -1,4 +1,4 @@
-package Main
+package main
 
 import Class.Car
 import Class.Person
