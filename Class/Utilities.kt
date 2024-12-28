@@ -16,5 +16,10 @@ class Aplication{
             return value.toLowerCase()
         }
     }
+    companion object{
+        fun hello(name: String){
+            println("Hello $name")
+        }
+    }
 
 }
